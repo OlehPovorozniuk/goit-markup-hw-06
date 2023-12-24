@@ -116,9 +116,11 @@ text-transform: capitalize;
    
 
 }
+
 .address {
     font-style: normal;
 }
+
 .nav-address{
     display: flex;
     flex-direction: column;
@@ -180,6 +182,7 @@ text-transform: capitalize;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  width: 375px;
 }
 .title-hero {
   margin-top: 0;
